@@ -1,4 +1,4 @@
-#Centralized P2P file transfer 
+# Centralized P2P file transfer 
 This was a final project for my Networking class at CCSU. 
 
 ******PROBLEMS/BUGS*********************
