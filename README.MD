@@ -2,6 +2,7 @@
 This was a final project for my Networking class at CCSU. 
 
 Bugs
+
 -dynamic timeout calc not yet implemented
 
 -packet 1 out of X not implemented
