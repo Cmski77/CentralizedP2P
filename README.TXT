@@ -2,4 +2,4 @@
 -dynamic timeout calc not yet implemented
 -packet 1 out of X not implemented
 -Multithreading needs to be tested (2 Peers attack directory with INFORM AND UPDATE at the same time?)
--Everything is borked whenever A peer tries to inform and update twice
+-Peers cannot inform and update twice in a row
